@@ -9,9 +9,6 @@ Welcome to my Profile !<br>My name is Nian and im a CE student who is interested
 ![](https://nirzak-streak-stats.vercel.app/?user=parnianheydari83&theme=noctis_minimus&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parnianheydari83&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parnianheydari83&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
