@@ -1,5 +1,9 @@
 # 💫 About Me:
- <br>Hi, I'm Nian! 👨‍💻<br>- 🎓 Computer Engineering student focused on **Artificial Intelligence**<br>- 🤖 Currently sharpening my skills in **deep learning** and **data-driven problem solving**<br>- 🧰 **Languages & Tools:**  <br>  `Python` `PyTorch` `NumPy` `pandas` `Matplotlib`<br>- 🌱 I’m working on projects that bridge engineering and AI—check out my pinned repos below!
+## Hi, I'm Nian! 👨‍💻
+
+- 🎓 Computer Engineering student focused on **Artificial Intelligence**
+- 🧠 Deeply interested in **Large Language Models** and using AI to advance **human health**
+- 🌱 I’m currently exploring LLM models and health‑tech projects
 
 
 ## 🌐 Socials:
