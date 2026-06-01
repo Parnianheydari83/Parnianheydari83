@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Nian! 👨‍💻<br><br>- 🎓 Computer Engineering student focused on **Artificial Intelligence**<br>- 🤖 Currently sharpening my skills in **deep learning** and **data-driven problem solving**<br>- 🧰 **Languages & Tools:**  <br>  `Python` `PyTorch` `NumPy` `pandas` `Matplotlib`<br>- 🌱 I’m working on projects that bridge engineering and AI—check out my pinned repos below!<br>- 📫 Reach me at: [your.email@example.com]  <br>- ⚡ Fun fact: I love automating everyday tasks with Python 🐍
+ <br>Hi, I'm Nian! 👨‍💻<br>- 🎓 Computer Engineering student focused on **Artificial Intelligence**<br>- 🤖 Currently sharpening my skills in **deep learning** and **data-driven problem solving**<br>- 🧰 **Languages & Tools:**  <br>  `Python` `PyTorch` `NumPy` `pandas` `Matplotlib`<br>- 🌱 I’m working on projects that bridge engineering and AI—check out my pinned repos below!
 
 
 ## 🌐 Socials:
